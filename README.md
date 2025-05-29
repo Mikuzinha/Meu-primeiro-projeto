@@ -8,7 +8,9 @@ Estamos tentando programar um site de venda de produtos! Nenhuma das coisas vend
 - Omori
 - DDLC (Doki Doki Literature Club)
 - Undertale
+  
 Os produtos serão:
+
 - Acessórios
 - Pelúcias e Action Figures
 - Roupas
